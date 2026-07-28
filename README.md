@@ -8,4 +8,4 @@
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![](https://64.media.tumblr.com/c01660fa97ca7ebcbc54260edac73fbe/11fb6a2736c47a8d-70/s400x600/943bdcb7ec2bade1736356d8a3f21ddb427c8048.gifv)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=catboykenma&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=800000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=catboykenma&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=800000&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=catboykenma&redirect=true)
